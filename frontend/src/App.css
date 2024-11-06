@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.App-main {
+  flex: 1;
+  padding: 20px;
+}
+
+.App-footer {
+  background-color: #282c34;
+  padding: 10px;
+  color: white;
+}
+
+form {
+  margin: 20px 0;
+}
+
+input[type="file"] {
+  margin-right: 10px;
+}
+
+button {
+  padding: 5px 10px;
+  background-color: #61dafb;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #21a1f1;
+}
