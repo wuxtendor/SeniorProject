@@ -41,7 +41,7 @@ function App() {
             </Routes>
           </main>
           <footer className="App-footer">
-            <p>&copy; 2024 AI app. By Seniors group 54.</p>
+            <p>&copy; 2025 AI app. By Seniors group 54.</p>
           </footer>
         </div>
       </Router>
